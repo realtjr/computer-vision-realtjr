@@ -72,7 +72,7 @@ DeepFace 對 east-asian face 的 domain generalization 限制明顯，需要：
 
 ---
 
-# #️⃣ Part 3 — Emotion Recognition on My Chosen Video  
+# #️⃣ Part 2 — Emotion Recognition on My Chosen Video  
 （My_chosen_videos.ipynb）
 
 影片：`test.mp4`
@@ -123,7 +123,7 @@ DeepFace 對 east-asian face 的 domain generalization 限制明顯，需要：
 
 ---
 
-# #️⃣ Part 2 — Emotion Recognition on vlog.mp4  
+# #️⃣ Part 3 — Emotion Recognition on vlog.mp4  
 （vlog.ipynb）
 
 影片：`vlog.mp4`
@@ -183,14 +183,4 @@ DeepFace 對 east-asian face 的 domain generalization 限制明顯，需要：
 | Part 2 | vlog.ipynb | 影片情緒辨識 | Distribution + Timeline | Sad 佔多，與情境符合 |
 
 ---
-
-# 👍 Reproducibility  
-
-若需要，我可以在 README 最後加入：
-
-- 完整流程圖  
-- 執行前需安裝的套件  
-- 影片逐幀分析程式碼  
-
-只要跟我說即可！
 
