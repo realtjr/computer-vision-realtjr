@@ -14,8 +14,8 @@ https://chatgpt.com/share/693b270a-010c-8009-a3ae-394c581f49e4
 3. **Part 2 — Vlog Emotion Recognition（vlog.ipynb）**  
 
 並附上模型輸出的 CSV：  
-- `test_emotions.csv`  
-- `vlog_emotions.csv`
+- `/result/test_emotions.csv`  
+- `/result/vlog_emotions.csv`
 
 ---
 
