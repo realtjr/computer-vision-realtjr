@@ -1,3 +1,6 @@
+以下網址是我與llm互動完成作業的紀錄:
+https://chatgpt.com/share/693b270a-010c-8009-a3ae-394c581f49e4
+
 # Emotion Recognition Project  
 利用 DeepFace 與 FER 模型，分別對 **台灣人臉情緒資料集**、**vlog 影片** 與 **自選影片** 進行情緒辨識。
 
