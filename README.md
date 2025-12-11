@@ -40,7 +40,7 @@
 ## ✔️ Confusion Matrix  
 （請將圖片存成 `taiwanese_confmat.png`）
 
-![Taiwanese Confusion Matrix](taiwanese_confmat.png)
+![Taiwanese Confusion Matrix](/result/taiwanese_confmat.png)
 
 📌 **Model Accuracy = 0.52428**
 
