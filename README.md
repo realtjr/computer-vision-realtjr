@@ -38,7 +38,6 @@
 ---
 
 ## ✔️ Confusion Matrix  
-（請將圖片存成 `taiwanese_confmat.png`）
 
 ![Taiwanese Confusion Matrix](/result/taiwanese_confmat.png)
 
@@ -80,23 +79,23 @@ DeepFace 對 east-asian face 的 domain generalization 限制明顯，需要：
 ---
 
 ## 🎞️ Video Information  
-（存檔：`test_video_info.png`）
 
-![Test Video Info](test_video_info.png)
+
+![Test Video Info](/result/test_video_info.png)
 
 ---
 
 ## 📊 Emotion Distribution  
-（存檔：`test_emotion_distribution.png`）
 
-![Test Emotion Distribution](test_emotion_distribution.png)
+
+![Test Emotion Distribution](/result/test_emotion_distribution.png)
 
 ---
 
 ## 📈 Emotion Timeline (1 FPS)  
-（存檔：`test_emotion_timeline.png`）
 
-![Test Emotion Timeline](test_emotion_timeline.png)
+
+![Test Emotion Timeline](/result/test_emotion_timeline.png)
 
 ---
 
@@ -131,23 +130,23 @@ DeepFace 對 east-asian face 的 domain generalization 限制明顯，需要：
 ---
 
 ## 🎞️ Video Information  
-（存檔：`vlog_video_info.png`）
 
-![Vlog Video Info](vlog_video_info.png)
+
+![Vlog Video Info](/result/vlog_video_info.png)
 
 ---
 
 ## 📊 Emotion Distribution  
-（存檔：`vlog_emotion_distribution.png`）
 
-![Vlog Emotion Distribution](vlog_emotion_distribution.png)
+
+![Vlog Emotion Distribution](/result/vlog_emotion_distribution.png)
 
 ---
 
 ## 📈 Emotion Timeline (1 FPS)  
-（存檔：`vlog_emotion_timeline.png`）
 
-![Vlog Emotion Timeline](vlog_emotion_timeline.png)
+
+![Vlog Emotion Timeline](/result/vlog_emotion_timeline.png)
 
 ---
 
