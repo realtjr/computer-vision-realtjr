@@ -10,8 +10,8 @@ https://chatgpt.com/share/693b270a-010c-8009-a3ae-394c581f49e4
 
 # 📌 Contents  
 1. **Part 1 — Taiwanese Dataset Emotion Classification（Taiwanese_face.ipynb）**  
-2. **Part 3 — My Chosen Video Emotion Recognition（My_chosen_videos.ipynb）**  
-3. **Part 2 — Vlog Emotion Recognition（vlog.ipynb）**  
+2. **Part 2 — My Chosen Video Emotion Recognition（My_chosen_videos.ipynb）**  
+3. **Part 3 — Vlog Emotion Recognition（vlog.ipynb）**  
 
 並附上模型輸出的 CSV：  
 - `/result/test_emotions.csv`  
